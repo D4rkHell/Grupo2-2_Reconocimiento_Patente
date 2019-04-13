@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2feae6b6-9d55-49e7-b256-b3c51ca815c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Raspberry/detectar auto/cars.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,17 +73,6 @@
               <item name="Grupo2-2_Reconocimiento_Patente" type="b2602c69:ProjectViewProjectNode" />
               <item name="Grupo2-2_Reconocimiento_Patente" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Grupo2-2_Reconocimiento_Patente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grupo2-2_Reconocimiento_Patente" type="462c0819:PsiDirectoryNode" />
-              <item name="Raspberry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Grupo2-2_Reconocimiento_Patente" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Grupo2-2_Reconocimiento_Patente" type="462c0819:PsiDirectoryNode" />
-              <item name="Raspberry" type="462c0819:PsiDirectoryNode" />
-              <item name="detectar auto" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -92,10 +82,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Raspberry/detectar auto" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -128,6 +120,7 @@
       <workItem from="1554430918046" duration="935000" />
       <workItem from="1554431998554" duration="1086000" />
       <workItem from="1554434586540" duration="309000" />
+      <workItem from="1555036803279" duration="91000" />
     </task>
     <task id="LOCAL-00001" summary="informes para llenar">
       <created>1554431100976</created>
@@ -140,7 +133,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2330000" />
+    <option name="totallyTimeSpent" value="2421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -152,10 +145,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25757575" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,8 +160,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32899022" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007576" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49924242" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -182,6 +174,9 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/informes" />
+    </ignored-roots>
     <MESSAGE value="informes para llenar" />
     <option name="LAST_COMMIT_MESSAGE" value="informes para llenar" />
   </component>
