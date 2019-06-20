@@ -31,7 +31,7 @@ cv2.imshow('car', img)
 
 import cv2
 
-rostroCascade = cv2.CascadeClassifier("cars.xml")
+rostroCascade = cv2.CascadeClassifier("car2.xml")
 
 imagen = cv2.imread("foto1.jpg")
 filtro = cv2.cvtColor(imagen, cv2.COLOR_BGR2GRAY)
@@ -45,7 +45,7 @@ cars = rostroCascade.detectMultiScale(
 )
 """
 gray = cv2.cvtColor(imagen, cv2.COLOR_BGR2GRAY)
-cars = rostroCascade.detectMultiScale(gray, 1.1, 1)
+cars = rostroCascade.detectMultiScale(gray, 1.1, 50)
 
 for (x, y, w, h) in cars:
     cv2.rectangle(imagen, (x, y), (x + w, y + h), (0, 0, 255), 2)
