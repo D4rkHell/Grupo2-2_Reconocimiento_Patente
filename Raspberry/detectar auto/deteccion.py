@@ -33,7 +33,7 @@ import cv2
 
 rostroCascade = cv2.CascadeClassifier("car2.xml")
 
-imagen = cv2.imread("foto1.jpg")
+imagen = cv2.imread("nombre4.jpg")
 filtro = cv2.cvtColor(imagen, cv2.COLOR_BGR2GRAY)
 """
 cars = rostroCascade.detectMultiScale(
